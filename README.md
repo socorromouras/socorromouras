@@ -1,18 +1,18 @@
 👋 Olá, sou **Socorro Moura!** [@socorromouras]
 
-👀 Tenho formação em **Jornalismo** e atualmente estou em transição de carreira para a área de **dados**.  
-O primeiro contato com o mundo de dados foi através da linguagem **SQL**.  
+👀 Sou formada em Jornalismo e atualmente estou em transição de carreira para a área de Dados. 
+Meu primeiro contato com esse universo foi por meio da disciplina de Jornalismo de Dados, desde então, tenho buscado constante aperfeiçoamento por meio de cursos e projetos práticos.
+A cada passo, minha afinidade com a área só cresce.
 
-Desde então, minha afinidade só aumenta.  
+🌱 No momento, estou focada no desenvolvimento e aprimoramento das seguintes habilidades:
 
-🌱 Também possuo habilidades em:
+- **Linguagens**: Python  
+- **Banco de Dados**: SQL (básico)  
+- **Análise de Dados e IA**: Pandas, Matplotlib, Google Looker Studio, Power BI  
+- **Desenvolvimento Web**: HTML e CSS (básico)
 
-- BigQuery  
-- Power BI  
-- Google Sheets
-- Looker Studio
-- SQL
-- Python  
+🎯 Meu objetivo é atuar como analista de dados, consolidando competências técnicas, ganhando experiência prática e contribuindo para a tomada de decisões orientadas por dados. Estou motivada a encarar os desafios do setor de tecnologia e crescer profissionalmente a cada nova oportunidade.
+
 
 📫 Para entrar em contato comigo:
 
