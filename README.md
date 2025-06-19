@@ -7,7 +7,7 @@ A cada passo, minha afinidade com a área só cresce.
 🌱 No momento, estou focada no desenvolvimento e aprimoramento das seguintes habilidades:
 
 - **Linguagens**: Python  
-- **Banco de Dados**: SQL (básico)  
+- **Banco de Dados**: SQL 
 - **Análise de Dados e IA**: Pandas, Matplotlib, Google Looker Studio, Power BI  
 - **Desenvolvimento Web**: HTML e CSS (básico)
 
