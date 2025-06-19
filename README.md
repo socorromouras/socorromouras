@@ -9,7 +9,10 @@ Desde então, minha afinidade só aumenta.
 
 - BigQuery  
 - Power BI  
-- Google Sheets  
+- Google Sheets
+- Looker Studio
+- SQL
+- Python  
 
 📫 Para entrar em contato comigo:
 
